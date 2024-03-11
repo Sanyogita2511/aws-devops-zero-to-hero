@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash fds
 set -e
 
 # Pull the Docker image from Docker Hub
